@@ -1,0 +1,12 @@
+﻿  Main.c
+c:\users\dbwls\desktop\1주차_aes_testvector\aes\aes\main.c(3): warning C4244: 'return': 'unsigned __int64'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dbwls\desktop\1주차_aes_testvector\aes\aes\main.c(13): warning C4129: '[': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\dbwls\desktop\1주차_aes_testvector\aes\aes\main.c(20): warning C4129: '[': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+c:\users\dbwls\desktop\1주차_aes_testvector\aes\aes\main.c(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\dbwls\desktop\1주차_aes_testvector\aes\aes\main.c(40): warning C4129: '[': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+  코드를 생성하고 있습니다.
+  0 of 16 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  AES.vcxproj -> C:\Users\dbwls\Desktop\1주차_AES_TestVector\AES\Release\AES.exe
